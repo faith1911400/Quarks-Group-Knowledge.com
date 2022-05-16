@@ -1,0 +1,37 @@
+"MV Boli", Times, serif;
+
+'Poppins', sans-serif;
+
+"Bahnschrift", Times, serif;
+
+ "Gabriola", Times, serif;
+
+"Comic Sans MS", Times, serif; (best of my all fonts_family ))
+
+
+"Constantia", Times, serif;
+
+
+<button class="btn">Sign up</button>
+
+.btn{
+width:150px;
+height:45px:
+border-radius:45px;
+cursor:pointer;
+border:none;
+text-transform:uppercase;
+letter-spacing:2px;
+font-weight:bold;
+box-shadow:0px 8px 15px rgba(0, 0, 0, 0.1);
+transition: all 0.3s ease;
+}
+
+.btn:hover{
+background: #2ceaae5;
+transform: translateY(-7px);
+color:#fff;
+box-shadow: 0px 10px 25px  rgba(45, 223, 229, 0.445);
+
+}
+
